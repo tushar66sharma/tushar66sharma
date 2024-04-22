@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://hackernoon.imgix.net/images/qzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png" align="center" style="width: 50%" />
+
 </div>  
   
 
@@ -15,7 +16,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: The average person spends about six months of their lifetime waiting for red lights to turn green.  
+- ⚡ Fun fact: Koalas 🐨 sleep for up to 22 hours a day. They've truly mastered the art of relaxation. 😴 I think I'm one of them!  
   
 
 <br/>  
@@ -89,6 +90,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true" align="center" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=tushar66sharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar66sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-profile-trophy.vercel.app/?username=tushar66sharma&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>  
 
 <br/>  
