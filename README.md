@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hackernoon.imgix.net/images/qzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png" align="center" style="width: 100%" />
+<img src="https://hackernoon.imgix.net/images/qzwLxrUAy2MQdbMWWHtpefkRrGx2-00037t6.png" align="center" style="width: 50%" />
 </div>  
   
 
