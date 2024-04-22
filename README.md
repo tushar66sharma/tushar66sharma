@@ -90,11 +90,11 @@
 
 ## Github Stats  
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true" style="max-width: 80%; margin-bottom: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar66sharma&theme=dark&hide_border=false" style="max-width: 80%; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true" style="max-width: 50%; margin-bottom: 20px; margin-left:20px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar66sharma&theme=dark&hide_border=false" style="max-width: 50%; margin-bottom: 20px;" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar66sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; margin-bottom: 20px;" /> -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=tushar66sharma&theme=radical&no-frame=true&no-bg=true&margin-w=4" style="max-width: 100%; margin-bottom: 20px;" /> -->
-  <img src='https://randommeme-five.vercel.app/' style="max-width: 100%; height: 400px;"  />
+  <img src='https://randommeme-five.vercel.app/' style="max-width: 50%; height: 300px;"  />
 </div>
 
 
