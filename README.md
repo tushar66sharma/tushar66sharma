@@ -89,12 +89,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar66sharma&theme=dark&hide_border=false" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar66sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" />
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=tushar66sharma&theme=radical&no-frame=true&no-bg=true&margin-w=4" align="center"/> -->
   <img src='https://randommeme-five.vercel.app/' style="height: 400px; align="center"/>
-</div>  
+</div>
 
 <br/>  
 
