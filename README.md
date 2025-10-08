@@ -97,3 +97,7 @@
 <div align="center" style="color: #888; font-size: 15px;">
   <i>Let's build something amazing together! 🚀</i>
 </div>
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tushar66sharma&theme=onedark)
