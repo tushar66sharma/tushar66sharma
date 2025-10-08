@@ -89,11 +89,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&count_private=true&hide_border=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar66sharma&theme=radical&hide_border=true" width="45%" />
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tushar66sharma&show_icons=true&theme=vision-friendly-dark" alt="Your GitHub Stats" />
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar66sharma&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 <div align="center" style="color: #888; font-size: 15px;">
   <i>Let's build something amazing together! 🚀</i>
 </div>
